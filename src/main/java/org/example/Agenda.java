@@ -3,7 +3,7 @@ package org.example;
 /**
  * Metodo Agenda
  * @author Anouar
- * @version 1.0
+ * @version 1.1
  * @since 08/03/2024
  * @see org.example.Contacto
  */
