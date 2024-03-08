@@ -1,5 +1,13 @@
 package org.example;
 
+/**
+ * Metodo Agenda
+ * @author Anouar
+ * @version 1.0
+ * @since 08/03/2024
+ * @see org.example.Contacto
+ */
+
 import java.util.*;
 
 public class Agenda {

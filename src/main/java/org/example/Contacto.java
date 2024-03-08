@@ -1,5 +1,13 @@
 package org.example;
 
+/**
+ * Metodo Contacto
+ * @author Anouar
+ * @version 1.0
+ * @since 08/03/2024
+ * @see org.example.Agenda
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 
